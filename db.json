@@ -1,0 +1,13 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "nome": "Lava-Loucas"
+      "categoria": {
+        "id": 1,
+        "nome": "Cozinha"
+      }
+    }
+  ],
+  
+}
